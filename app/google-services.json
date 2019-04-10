@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9316447538",
+    "firebase_url": "https://voicesearcher-431dd.firebaseio.com",
+    "project_id": "voicesearcher-431dd",
+    "storage_bucket": "voicesearcher-431dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9316447538:android:f24d23ba4e28e934",
+        "android_client_info": {
+          "package_name": "com.example.voicesearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9316447538-48f6q4kal30pt7i908vc8eu497ctal5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voicesearcher",
+            "certificate_hash": "e54a982941947d466dc2094f289d214b0776d06c"
+          }
+        },
+        {
+          "client_id": "9316447538-3po83vkn190rdmve2s4f478qj5ohdrk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jtx-E5zuPLeaoFSwBAoAZh83_kbwxxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9316447538-3po83vkn190rdmve2s4f478qj5ohdrk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
