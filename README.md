@@ -1,3 +1,3 @@
 # Speakup
-A sample app for voice searching
+A dummy sample app for voice searching
 
